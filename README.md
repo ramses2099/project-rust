@@ -1,4 +1,4 @@
-# project-rust
+# Project Rust
 Cargo Workspaces In Rust
 
 ## Creating a workspace
